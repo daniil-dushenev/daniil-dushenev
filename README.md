@@ -19,13 +19,13 @@
 * 🇬🇧 English  - soon...
 
 
-## Skills
+### :bulb: Skills
 
-#### Languages
-> Python
+* Languages
+  > Python
 
-#### Frameworks
-> Pandas, Scikit-learn, XGBoost
+* Frameworks
+  > Pandas, Scikit-learn, XGBoost
 
-#### Databases
-> PostgreSQL
+* Databases
+  > PostgreSQL
