@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, i'm Daniil Dushenev
 
-<!--
-**daniil-dushenev/daniil-dushenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ML-engineer, Data Scientist
 
-Here are some ideas to get you started:
+### 👨‍🎓 Education
+* [NUST MISIS, Applied Math](https://misis.ru/applicants/admission/baccalaureate-and-specialty/faculties/math/) (Since 2023)
+* [mlcourse.ai](https://mlcourse.ai/) (08.2023)
+* [SQL karpov.courses](https://karpov.courses/simulator-sql) (08.2023)
+* [Deep learning school from MIPT](https://dls.samcs.ru/) (08.2023-...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🏆 Competitions
+* Soon...
+
+
+### :earth_africa: Languages
+* 🇷🇺 Russian - Native
+* 🇩🇪 German - A2
+* 🇬🇧 English  - soon...
+
+
+## Skills
+
+#### Languages
+> Python
+
+#### Frameworks
+> Pandas, sklearn, XGBoost
+
+#### Databases
+> PostgreSQL
