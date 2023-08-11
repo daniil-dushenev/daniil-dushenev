@@ -25,7 +25,7 @@
 > Python
 
 #### Frameworks
-> Pandas, sklearn, XGBoost
+> Pandas, Scikit-learn, XGBoost
 
 #### Databases
 > PostgreSQL
