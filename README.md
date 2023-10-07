@@ -10,7 +10,7 @@
 
 
 ### 🏆 Competitions
-* Soon...
+* RuCode 2023 League of Beginners - **2 место** 🥈
 
 
 ### :earth_africa: Languages
