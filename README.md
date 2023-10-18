@@ -25,7 +25,7 @@
   > Python
 
 * Frameworks
-  > Pandas, Scikit-learn, XGBoost, CatBoost
+  > Pandas, Scikit-learn, XGBoost, CatBoost, Torch
 
 * Databases
   > PostgreSQL
