@@ -25,8 +25,11 @@
 * Languages
   > Python, C++
 
+* Fields
+  > Classical ML, Computer Vision, Reinforcement Learning
+
 * Frameworks
-  > Pandas, Scikit-learn, XGBoost, CatBoost, Torch
+  > Pandas, NumPy, PyTorch, Scikit-learn, XGBoost, CatBoost, OpenCV
 
 * Databases
   > PostgreSQL
