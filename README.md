@@ -10,6 +10,7 @@
 
 
 ### 🏆 Competitions
+* LCT Yakutia 2023 - **2 place** 🥈
 * RuCode 2023 League of Beginners - **2 place** 🥈
 
 
@@ -22,7 +23,7 @@
 ### :bulb: Skills
 
 * Languages
-  > Python
+  > Python, C++
 
 * Frameworks
   > Pandas, Scikit-learn, XGBoost, CatBoost, Torch
