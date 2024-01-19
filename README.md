@@ -10,7 +10,7 @@
 
 
 ### 🏆 Competitions
-* LCT Yakutia 2023 - **2 place** 🥈
+* LCT Yakutia 2023 - [**2 place**](https://rpp.mos.ru/services/files/2023/12/27/b714ec9739824b729d68c8946f79745f.pdf) 🥈
 * RuCode 2023 League of Beginners - **2 place** 🥈
 
 
