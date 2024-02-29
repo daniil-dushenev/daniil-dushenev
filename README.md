@@ -26,10 +26,10 @@
   > Python, C++
 
 * Fields
-  > Classical ML, Computer Vision, Reinforcement Learning
+  > Classical ML, RecSys, NLP, Computer Vision, Reinforcement Learning
 
 * Frameworks
-  > Pandas, NumPy, PyTorch, Scikit-learn, XGBoost, CatBoost, OpenCV
+  > Pandas, NumPy, PyTorch, Transformers, Scikit-learn, CatBoost, OpenCV, Optuna
 
 * Databases
   > PostgreSQL
