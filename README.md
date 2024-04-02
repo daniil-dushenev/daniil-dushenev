@@ -10,6 +10,7 @@
 
 
 ### 🏆 Competitions
+* ИТ-чемпионат «Цифровая Эра Транспорта», г. Пермь - **1 place** 🥇:
 * IT Purple Hack 2024 - **3 place** :3rd_place_medal:
 * LCT Yakutia 2023 - [**2 place**](https://rpp.mos.ru/services/files/2023/12/27/b714ec9739824b729d68c8946f79745f.pdf) 🥈
 * RuCode 2023 League of Beginners - **2 place** 🥈
