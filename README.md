@@ -30,10 +30,10 @@
   > Python, C++
 
 * Fields
-  > Classical ML, RecSys, NLP, Computer Vision, Reinforcement Learning, Time-to-Event
+  > Classical ML, RecSys, NLP, Computer Vision, Reinforcement Learning, Time-to-Event, Genetic Algorithms
 
 * Frameworks
-  > Pandas, NumPy, PyTorch, Transformers, Scikit-learn, CatBoost, OpenCV, Optuna
+  > Pandas, NumPy, PyTorch, Transformers, Scikit-learn, CatBoost, OpenCV, Optuna, ETNA
 
 * Databases
   > PostgreSQL
