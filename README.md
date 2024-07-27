@@ -18,12 +18,6 @@
 * RuCode 2023 League of Beginners - **2 place** 🥈
 
 
-### :earth_africa: Languages
-* 🇷🇺 Russian - Native
-* 🇩🇪 German - A2
-* 🇬🇧 English  - soon...
-
-
 ### :bulb: Skills
 
 * Languages
